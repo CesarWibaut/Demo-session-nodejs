@@ -1,4 +1,4 @@
-# Démonstration du fonctionnement de fonction avec node.js
+# Démonstration du fonctionnement de session avec node.js
 
 ##  Utilisation de express et express-session
 
